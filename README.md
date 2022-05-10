@@ -77,5 +77,5 @@ Seja criativo!
 
 ## Como resolver o desafio
 
-- Crie um novo repositório utilizando o [GitHub Classroom assignment](https://classroom.github.com/a/U_pXGXI2).
+- Crie um novo repositório utilizando o [GitHub Classroom assignment](https://classroom.github.com/a/RexBdxI8).
 - Nosso time vai avaliar sua solução e dar feedback em até 15 dias úteis.
